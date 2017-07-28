@@ -4,7 +4,17 @@ Tika
 
 PDFBox
 
+
+
+[Show HN: PDFLayoutTextStripper – Converts PDF to text while keeping the layout ](https://news.ycombinator.com/item?id=13729301)
+[PDFLayoutTextStripper](https://github.com/JonathanLink/PDFLayoutTextStripper)
+ - an excellent tool for perserving the layout in a text document. Doens't add labels.
+
+
 PDFTabExtract
+[Data Mining OCR PDFs Using PDFTabExtract to Liberate Tabular Data From Scanned Documents](https://datascience.blog.wzb.eu/2017/02/16/data-mining-ocr-pdfs-using-pdftabextract-to-liberate-tabular-data-from-scanned-documents/)
+
+[GitHub PDFTabExtract](https://github.com/WZBSocialScienceCenter/pdftabextract)
 
 Jython
 
