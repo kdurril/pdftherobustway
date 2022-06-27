@@ -1,4 +1,4 @@
 PyPDF2==1.26.0
 pdftabextract==0.1.0
 tika==1.15
-reportlab==3.4.0
+reportlab==3.5.55
